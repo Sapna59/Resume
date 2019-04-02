@@ -9,6 +9,9 @@ td,th   {
 		border:2px solid black;
 		padding:15px;
 		} 
+p       {
+		padding-left: 17px;
+		padding-right: 17px;
 th      {
 		text-align :center;
 		font-size:18px;
