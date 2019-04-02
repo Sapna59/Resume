@@ -1,0 +1,32 @@
+h3      {  
+		background-color: #dddddd;
+		}
+table   { 
+		border-collapse:collapse;
+        }
+td,th   { 
+		text-align:left;
+		border:2px solid black;
+		padding:15px;
+		} 
+th      {
+		text-align :center;
+		font-size:18px;
+		}
+table tr:nth-child(even) 	{
+							background-color:#fff;
+							}
+table tr:nth-child(odd)  	{
+							background-color:#eee;
+							}
+
+table tr:hover	{
+			background-color:lightgray;
+			}
+body    {
+		padding: 10px 25px 10px 25px;
+		}
+#info   { 
+		margin:auto;
+        max-width: 750px ;
+		}	
