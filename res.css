@@ -17,11 +17,11 @@ th      {
 		font-size:18px;
 		}
 table tr:nth-child(even) 	{
-							background-color:#fff;
-							}
+					background-color:#fff;
+					}
 table tr:nth-child(odd)  	{
-							background-color:#eee;
-							}
+					background-color:#eee;
+					}
 
 table tr:hover	{
 			background-color:lightgray;
@@ -29,7 +29,4 @@ table tr:hover	{
 body    {
 		padding: 10px 250px 10px 250px;
 		}
-#info   { 
-		margin:auto;
-        max-width: 750px ;
-		}	
+	
